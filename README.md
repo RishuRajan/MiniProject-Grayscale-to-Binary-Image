@@ -1,5 +1,4 @@
 # Project-Grayscale to Binary Image
-This Repository Basically contains Project Made By Me using cpp language
 
 PROJECT TASK-
 We hace given a grayscale image whose pixel values are stored in a 2-D array named image.
